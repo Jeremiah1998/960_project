@@ -1,6 +1,6 @@
 .top-bar{ 
     padding:6px 0;
-    background-color: blue;
+    background-color:#131d29 ;
 }
 .top-bar a{ 
     color: grey;
@@ -30,7 +30,7 @@
 }
 .branding a { 
     padding:6px 8px;
-    background-color: blue;
+    background-color: #131d29;
     color:white;
     text-decoration:none;
     text-transformed:uppercase;
@@ -38,10 +38,25 @@
 }  
 .more {
      padding:6px 8px;
-    background-color: blue;
+    background-color:#131d29;
     color:white;
     text-decoration:none;
     text-transformed:uppercase;
     border-radius:8px;
 
 }
+
+.second-bar ul a {
+     background-color:#131d29;
+     color:#fff;
+     padding: 5px 5px;
+     border-radius: 5px;
+     text-decoration: none;
+ }
+
+.outer-bottom {
+background:#325373;
+bacground:linear-gradient(to bottom, #1f354b 1%, #0f1b24 100%);
+ }
+
+ 
