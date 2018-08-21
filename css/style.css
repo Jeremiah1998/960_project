@@ -1,0 +1,47 @@
+.top-bar{ 
+    padding:6px 0;
+    background-color: blue;
+}
+.top-bar a{ 
+    color: grey;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+.top-bar ul{
+    text-align: right;
+    list-style:none; 
+    padding:0;
+    margin:0;
+}
+.top-bar li{
+    display:inline;
+}
+.branding img{ 
+    margin:15px 0;
+}
+.branding ul{
+    list-style:none;
+    padding:20px 0;
+    margin:20px00;
+    text-align:right;
+}
+.branding li{
+    display: inline;
+}
+.branding a { 
+    padding:6px 8px;
+    background-color: blue;
+    color:white;
+    text-decoration:none;
+    text-transformed:uppercase;
+    border-radius:8px;
+}  
+.more {
+     padding:6px 8px;
+    background-color: blue;
+    color:white;
+    text-decoration:none;
+    text-transformed:uppercase;
+    border-radius:8px;
+
+}
